@@ -12,7 +12,6 @@ Link to IMBb data : https://datasets.imdbws.com/
 We will filter and explore the data, and then we will perform hypothesis testing to analyze the relationship between movie revenues and certain factors.
 
 ## Data Explanation
-
 <p align = "center"> 
   <img src = "https://github.com/Mahdi-Kriaa/Movies_Analysis/blob/main/Images/revenue_vs_certifcation.png">
 </p>
