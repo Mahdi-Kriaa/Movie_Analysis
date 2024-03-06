@@ -1,6 +1,6 @@
 # Movies_Analysis
 
-## Overview
+## Objective
 This Project aims to explore and provide valuable insights regarding the American cinema. By examining a diverse range of films, we’ll delve into various aspects such as RPAA rating and movie duration to find out what factors increase a movie revenue.
 
 ## Data Source
@@ -16,16 +16,16 @@ We will filter and explore the data, and then we will perform hypothesis testing
   <img src = "https://github.com/Mahdi-Kriaa/Movies_Analysis/blob/main/Images/revenue_vs_certifcation.png">
 </p>
 
-We see that movies with certain certifications are more profitable than others
+We see that movies with certain certifications are generally more profitable than others.
 
 <p align = "center"> 
   <img src = "https://github.com/Mahdi-Kriaa/Movies_Analysis/blob/main/Images/revenue_vs_duration.png">
 </p>
 
-Long movies are more profitable than short ones
+Movies that last over 1.5 hours are generally more profitable than others.
 
 <p align = "center"> 
   <img src = "https://github.com/Mahdi-Kriaa/Movies_Analysis/blob/main/Images/revenue_vs_release_year.png">
 </p>
 
-Movies released in 2010 were generally more profitable than ones released in 2018
+Movies released in 2010 were generally more profitable than ones released in 2018.
