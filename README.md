@@ -13,19 +13,19 @@ We will filter and explore the data, and then we will perform hypothesis testing
 
 ## Data Explanation
 <p align = "center"> 
-  <img src = "https://github.com/Mahdi-Kriaa/Movies_Analysis/blob/main/Images/revenue_vs_certifcation.png">
+  <img src = "https://github.com/Mahdi-Kriaa/Movies_Analysis/blob/main/images/revenue_vs_certifcation.png">
 </p>
 
 We see that movies with certain certifications are generally more profitable than others.
 
 <p align = "center"> 
-  <img src = "https://github.com/Mahdi-Kriaa/Movies_Analysis/blob/main/Images/revenue_vs_duration.png">
+  <img src = "https://github.com/Mahdi-Kriaa/Movies_Analysis/blob/main/images/revenue_vs_duration.png">
 </p>
 
 Movies that last over 1.5 hours are generally more profitable than others.
 
 <p align = "center"> 
-  <img src = "https://github.com/Mahdi-Kriaa/Movies_Analysis/blob/main/Images/revenue_vs_release_year.png">
+  <img src = "https://github.com/Mahdi-Kriaa/Movies_Analysis/blob/main/images/revenue_vs_release_year.png">
 </p>
 
 Movies released in 2010 were generally more profitable than ones released in 2018.
